@@ -7,6 +7,7 @@ Lab projects from the **Google x NVIDIA Chip Design & Verification** program at 
 | [Lab02](Lab02-8bit-Adder-Beh-vs-Str) | 8-bit adder | Behavioral vs. structural modeling, hierarchical design |
 | [Lab03](Lab03-7Segment-Controller) | 7-segment display controller | Time-multiplexed display, decoder, refresh counter |
 | [Lab04](Lab04-UART-TX-Controller) | UART transmitter | FSM, baud-rate generation, serial framing (start / data / stop bits) |
+| [Lab05](Lab05-UART-TRX-Controller) | UART transceiver (TX + RX) | RX 16x oversampling, PHY/MAC split, message parsing, SystemVerilog, self-checking testbenches |
 
 ## Tools
 
